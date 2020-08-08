@@ -1,5 +1,19 @@
 [
 {
+  "category":"Heros",
+  "quantity_of_stickers":"30",
+  "package_id":"SpiderVerse",
+  "sent_by":"ClebersonJrX",
+  "pack_title":"Spider Verse",
+  "pack_preview_1":"https://tlgur.com/d/8BrbXpQ8",
+  "pack_preview_2":"https://tlgur.com/d/8ekV9pkg",
+  "pack_preview_3":"https://tlgur.com/d/g2Z3KBXg",
+  "pack_preview_4":"https://tlgur.com/d/g50OKdMG",
+  "pack_description":"Um homem Aranha é bom, dois ta bom também, okay, mas e um Aranhaverso?",
+  "pack_date":"08/08/2020",
+  "pack_settings":"A"
+},
+{
   "category":"Animes",
   "quantity_of_stickers":"72",
   "package_id":"LINE_Girls_Frontline",
